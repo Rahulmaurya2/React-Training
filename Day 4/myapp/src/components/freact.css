@@ -1,0 +1,35 @@
+button {
+  padding: 10px;
+  background: white;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 1em;
+}
+
+.btn-1 {
+  background-color: aqua;
+}
+
+.btn-2 {
+  background-color: aquamarine;
+}
+
+.btn-1:hover {
+  background-color: cornflowerblue;
+}
+.btn-2:hover {
+  background-color: rgb(213, 184, 239);
+}
+
+.main > h1 {
+  border: 2px solid black;
+  padding: 20px;
+  margin-left: 40%;
+  margin-right: 40%;
+  background-color: cornsilk;
+  border-radius: 2em;
+}
+
+.main > h1 :hover {
+  background-color: lightblue;
+}
